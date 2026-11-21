@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Software Engineer Intern",
+    "salary": 75000,
+    "location": "Bengaluru",
+    "is_remote": true,
+    "description": "Build LLM-powered agents, semantic search pipelines, and ship reliable backend features to production. Fast-paced startup culture."
+  },
+  {
+    "id": 2,
+    "title": "Frontend Developer",
+    "salary": 50000,
+    "location": "Gurugram",
+    "is_remote": false,
+    "description": "Develop scalable e-learning platforms using React.js. Build responsive UIs and integrate REST APIs."
+  },
+  {
+    "id": 3,
+    "title": "Data Scientist",
+    "salary": 90000,
+    "location": "Remote",
+    "is_remote": true,
+    "description": "Mathematical modelling and graph theory applications for social media trends. Heavy focus on Python, PyTorch, and large datasets."
+  }
+]
